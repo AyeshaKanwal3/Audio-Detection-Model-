@@ -24,4 +24,3 @@ Audio deepfakes are artificially generated or manipulated audio samples that mim
 
 The dataset should be organized in a directory structure where each subdirectory corresponds to a class label, and each subdirectory contains audio files in `.wav` format.
 
-Example structure:
